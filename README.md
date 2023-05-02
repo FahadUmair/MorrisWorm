@@ -1,4 +1,4 @@
-# Morris Worms Attack and Self-Duplication Report (Please read the pdf)
+# Morris Worms Attack and Self-Duplication Report (Please read the TLP.pdf)
 
 - `worm/`: contains the provided skeleton worm code. 
 - `internet-mini/`: contains the mini Internet emulation files.
